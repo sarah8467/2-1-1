@@ -40,9 +40,9 @@
 ## 모델 및 실행 정보
 | 모델 | 이용 조건 | 실행 날짜 및 시각 | 원본 공유 링크 |
 |---|---|---|---|
-| ChatGPT Medium (정확한 버전 미확인) | Plus | 2026-11-24 (실습 기록 기준), 정확한 시각 미기록 | [원본](https://chatgpt.com/share/6b051884-0f98-83ee-8cd0-7b18c1eb0d26) |
-| Claude Sonnet 5.5 (사용자 보고, 정확한 버전 독립 확인 안 됨) | 무료 | 2026-11-24 (실습 기록 기준), 정확한 시각 미기록 | [원본](https://claude.ai/share/40894e95-178d-4d98-ad33-3e7542cff7b1) |
-| Gemini (정확한 버전 미확인) | 무료 | 2026-11-24 (실습 기록 기준), 정확한 시각 미기록 | [원본](https://share.gemini.google/g873vl4xdh2P) |
+| ChatGPT Medium (GPT‑6.2 Sol) | Plus | 2026-11-24 (실습 기록 기준), 정확한 시각 미기록 | [원본](https://chatgpt.com/share/6b051884-0f98-83ee-8cd0-7b18c1eb0d26) |
+| Claude Sonnet 5.5 | 무료 | 2026-11-24 (실습 기록 기준), 정확한 시각 미기록 | [원본](https://claude.ai/share/40894e95-178d-4d98-ad33-3e7542cff7b1) |
+| Gemini | 무료 | 2026-11-24 (실습 기록 기준), 정확한 시각 미기록 | [원본](https://share.gemini.google/g873vl4xdh2P) |
 
 ## 평가 (5점 척도, 응답 내용에 대한 분석 평가 점수)
 5점: 매우 충실, 4점: 대체로 충실, 3점: 일부 보완 필요, 2점: 상당한 부족, 1점: 미충족.
